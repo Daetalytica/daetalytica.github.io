@@ -1,5 +1,5 @@
 ---
-title: The RESTRICT Act --Threatening Freedom & Innovation
+title: The RESTRICT Act -- Threatening Freedom & Innovation
 published: true
 ---
 

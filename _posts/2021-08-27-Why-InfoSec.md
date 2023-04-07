@@ -1,5 +1,5 @@
 ---
-title: Why InfoSec?
+title: Privacy -- Why Should I Care?
 published: true
 ---
 
@@ -14,9 +14,9 @@ EMPOWERING THE PEOPLE TO TAKE CONTROL OF THEIR DIGITAL LIVES.
  
 
 Privacy & Information Security
-“Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.”
+> “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.” <cite>A Cypherpunk’s Manifesto</cite>
 
-A Cypherpunk’s Manifesto
+
 OSINT
 Data & Privacy
 Why Does It Matter?
