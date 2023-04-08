@@ -2,3 +2,33 @@
 #
 ---
 @import "base";
+
+/* Add your CSS code here */
+
+.git-info {
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+  
+  .git-info a {
+    text-decoration: none;
+  }
+  
+  .icon-star:before {
+    content: '\2605';
+  }
+  
+  .icon-fork:before {
+    content: '\2670';
+  }
+  
+  .icon-branch:before {
+    content: '\2693';
+  }
+  
+  .icon-commit:before {
+    content: '\2712';
+  }
+  
