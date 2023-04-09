@@ -18,11 +18,13 @@
       <span class="commit-hash"></span>
     </a>
   </div>  
-  <a href="https://choosealicense.com/licenses/mit/">
-    <span>
-        <b>{{ site.owner}}</b>
-    </span>
-    {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-    <span>© {{ currentyear }}</span>
-  </a>
+  <div class="license-info">
+    <a href="https://choosealicense.com/licenses/mit/">
+      <span>
+          <b>{{ site.owner}}</b>
+      </span>
+      {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+      <span>© {{ currentyear }}</span>
+    </a>
+  </div>  
 </footer>
