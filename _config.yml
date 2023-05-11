@@ -31,3 +31,5 @@ plugins:
 # Custom variables
 owner : "Oracle Holdings, LLC"
 year : "2020"
+
+include: [".well-known"]
