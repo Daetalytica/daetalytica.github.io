@@ -51,8 +51,8 @@ Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you fi
 
 - [Email](mailto:oracle@daetalytica.io)
 - [Mastodon](https://infosec.exchange/@daetalytica)
-- [Nostr] (nostr:npub1mypv8g3x7fps8q4a9xnxnj0460sg27up96gl297nmc53xn5c7fhqgxez98)
+- [Nostr](nostr:npub1mypv8g3x7fps8q4a9xnxnj0460sg27up96gl297nmc53xn5c7fhqgxez98)
 - [Twitter](https://twitter.com/daetalytica)
-- [Reddit] (https://www.reddit.com/r/Daetalytica)
+- [Reddit](https://www.reddit.com/r/Daetalytica)
 
 We also encourage you to join our community. Together, we can make the internet a safer and more secure place for everyone.
