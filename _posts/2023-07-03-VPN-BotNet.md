@@ -21,6 +21,9 @@ While some might argue that not all VPNs are harmful, and that some provide genu
 
 To sum up, the SwingVPN case serves as a crucial wake-up call for all internet users. Let it be a reminder to steer clear of free VPNs and prioritize our digital security above the lure of saving a few bucks.
 
-###### Further Reading:
-* https://www.androidpolice.com/malware-android-vpn-ddos-botnet/?newsletter_popup=1
-* https://www.hackread.com/swing-vpn-android-app-ddos-botnet/
+* * *
+
+###### Further Reading
+
+- [Android Police](https://www.androidpolice.com/malware-android-vpn-ddos-botnet/?newsletter_popup=1)
+- [HackRead](https://www.hackread.com/swing-vpn-android-app-ddos-botnet/)
