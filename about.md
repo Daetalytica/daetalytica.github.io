@@ -50,7 +50,7 @@ As the founder, I am passionate about sharing my knowledge with the world. Howev
 Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you find our site informative and helpful. If you have any questions or feedback, please don't hesitate to contact us.
 
 - [Email: oracle@daetalytica.io](mailto:oracle@daetalytica.io) | [PubKey](/assets/publickey.oracle@daetalytica.io-3530c9c34cd3c10f405febce72ff10db4744e3e4) | GPG Fingerprint (for all other communication): C8D8684341692765
-- [Mastodon: @daetalytica@infosec.exchange](https://infosec.exchange/@daetalytica)
+- [![Mastodon](assets/mastodon.png)](https://infosec.exchange/@daetalytica)
 - [Nostr: Dætalys@daetalytica.io](nostr:npub1mypv8g3x7fps8q4a9xnxnj0460sg27up96gl297nmc53xn5c7fhqgxez98)
 - [Twitter: @daetalytica](https://twitter.com/daetalytica)
 - [Reddit: r/daetalytica](https://www.reddit.com/r/Daetalytica)
