@@ -49,6 +49,12 @@ As the founder, I am passionate about sharing my knowledge with the world. Howev
 
 Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you find our site informative and helpful. If you have any questions or feedback, please don't hesitate to contact us.
 
-| [Email: oracle@daetalytica.io](mailto:oracle@daetalytica.io) | [Locals](https://daetalytica.locals.com/) | [![Mastodon](assets/mastodon.png)](https://infosec.exchange/@daetalytica) | [Nostr: Dætalys@daetalytica.io](nostr:npub1mypv8g3x7fps8q4a9xnxnj0460sg27up96gl297nmc53xn5c7fhqgxez98) | [Reddit: r/daetalytica](https://www.reddit.com/r/Daetalytica) | [![Twitter](assets/twitter.png)](https://twitter.com/daetalytica) |
+| Engage | Support | Experience |
+| --- | --- | --- |
+| [![Mastodon](assets/mastodon.png)](https://infosec.exchange/@daetalytica) | [![Locals](assets/locals.png)](https://daetalytica.locals.com/) | [![GitHub](assets/github.png)](https://github.com/daetalytica) |
+| [![Nostr: Dætalys@daetalytica.io](assets/nostr.webp)](nostr:npub1mypv8g3x7fps8q4a9xnxnj0460sg27up96gl297nmc53xn5c7fhqgxez98) | [![Patreon](assets/patreon.png)](https://www.patreon.com/daetalytica) | [![GitLab](assets/gitlab.png)](https://gitlab.com/daetalys) |
+| [![Reddit](assets/reddit.png)](https://www.reddit.com/r/Daetalytica) |  | [![Rumble](assets/rumble.webp)](https://rumble.com/c/c-3381892) |
+| [![Twitter](assets/twitter.png)](https://twitter.com/daetalytica) |  | [![YouTube](assets/youtube.png)](https://www.youtube.com/@daetalytica) |
+|  |  |  |
 
 We also encourage you to join our community. Together, we can make the internet a safer and more secure place for everyone.
