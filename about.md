@@ -56,5 +56,12 @@ Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you fi
 | [![Reddit](assets/reddit.png)](https://www.reddit.com/r/Daetalytica) |  | [![Rumble](assets/rumble.webp)](https://rumble.com/c/c-3381892) |
 | [![Twitter](assets/twitter.png)](https://twitter.com/daetalytica) |  | [![YouTube](assets/youtube.png)](https://www.youtube.com/@daetalytica) |
 |  |  |  |
+- ![Monero](assets/xmr.png) ![QRcode](assets/xmrQR.png) 89ib9Uv5s8Q57ydC8pnXEf6q1UHgP8DcJCm36vFdvjRRHtJByDhWWhzdMqHx9h1qmk1YsgnnnY5drEcgDu8wyMiYDzjUUz4
+- ![Bitcoin](assets/btc.png) ![QRcode](assets/btcQR.png) bc1qlkuf96a4nyegp96p7j9hayxe2shzx26j6yke9l
+- ![Litecoin](assets/ltc.png) ![QRcode](assets/ltcQR.png) LiMAQTP5rTR5Ms9iVMcvJFR47TXtmFytHb
+- ![Dogecoin](assets/doge.png) ![QRcode](assets/dogeQR.png) DCA6hHxPBcnF8xyZg37HEMBBxoYsWc2rK7
+- ![EVM](assets/evm.png)![Ethereum](assets/eth.png)![BNB Smart Chain](assets/bnb.png)![Polygon](assets/polygon.png) ![QRcode](assets/evmQR.png) 0x838751Aaa94B44541d16D94186e6dC189f5082B9
+- ![Cardano](assets/ada.png) ![QRcode](assets/adaQR.png) addr1qx6x4vte0ce9ps5mxunz4e0xctfc3yfkzk4uzaqyapr6td95d2chjl3j2rpfkdex9tj7dskn3zgnv9dtc96qf6z85k6qq6wvpj
+- ![Polkadot](assets/dot.png) ![QRcode](assets/dotQR.png) 154CtsCArZRZ5Mn6U2c7RHEV5AYpgYPUewaAxDBRmLfnLnVW
 
 We also encourage you to join our community. Together, we can make the internet a safer and more secure place for everyone.
