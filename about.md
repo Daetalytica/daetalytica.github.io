@@ -56,6 +56,7 @@ Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you fi
 | [![Reddit](assets/reddit.png)](https://www.reddit.com/r/Daetalytica) |  | [![Rumble](assets/rumble.webp)](https://rumble.com/c/c-3381892) |
 | [![Twitter](assets/twitter.png)](https://twitter.com/daetalytica) |  | [![YouTube](assets/youtube.png)](https://www.youtube.com/@daetalytica) |
 |  |  |  |
+
 - ![Monero](assets/xmr.png) ![QRcode](assets/xmrQR.png) 89ib9Uv5s8Q57ydC8pnXEf6q1UHgP8DcJCm36vFdvjRRHtJByDhWWhzdMqHx9h1qmk1YsgnnnY5drEcgDu8wyMiYDzjUUz4
 - ![Bitcoin](assets/btc.png) ![QRcode](assets/btcQR.png) bc1qlkuf96a4nyegp96p7j9hayxe2shzx26j6yke9l
 - ![Litecoin](assets/ltc.png) ![QRcode](assets/ltcQR.png) LiMAQTP5rTR5Ms9iVMcvJFR47TXtmFytHb
