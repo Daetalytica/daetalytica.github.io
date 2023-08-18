@@ -15,9 +15,9 @@ Feel free to take the initiative, engage, share, and even suggest new platforms 
 Join us, and be a pioneer in the digital revolution!
 
 ### Join the Movement
-![Reddit](/assets/reddit.png) Connect with like-minded individuals, engage in lively discussions, share resources, and more on our [Reddit community](https://www.reddit.com/r/Daetalytica).
-![Patreon](/assets/patreon.png) Become a supporter on [Patreon](https://www.patreon.com/daetalytica) and gain access to exclusive content, community events, and more.
-![Locals](/assets/locals.png) Join the conversation, get personalized insights, and connect with fellow privacy advocates on [Locals](https://daetalytica.locals.com).
+* ![Reddit](/assets/reddit.png) Connect with like-minded individuals, engage in lively discussions, share resources, and more on our [Reddit community](https://www.reddit.com/r/Daetalytica).
+* ![Patreon](/assets/patreon.png) Become a supporter on [Patreon](https://www.patreon.com/daetalytica) and gain access to exclusive content, community events, and more.
+* ![Locals](/assets/locals.png) Join the conversation, get personalized insights, and connect with fellow privacy advocates on [Locals](https://daetalytica.locals.com).
 
 ### Community Guidelines
-Content on community guidelines here...
+- [The FOSS Code of Conduct](https://distro.tube/articles/the-foss-code-of-conduct.html) by [Derek Taylor](https://www.youtube.com/@DistroTube)
