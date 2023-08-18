@@ -10,15 +10,15 @@ footer {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .git-info {
   display: flex;
   flex-grow: 1;
-  gap: 5px;
-  font-size: 7px;
-  align-items: left;
+  gap: 10px;
+  font-size: 14px;
+  align-items: center;
 }
 
 .git-info a {
@@ -34,5 +34,6 @@ footer {
 .license-info {
   display: flex;
   flex-grow: 1;
-  align-items: right;
+  font-size: 14px;
+  align-items: center;
 }
