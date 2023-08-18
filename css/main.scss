@@ -5,16 +5,6 @@
 
 /* Add your CSS code here */
 
-.git-info {
-  display: flex;
-  gap: 10px;
-  font-size: 14px;
-}
-
-.git-info a {
-  text-decoration: none;
-}
-
 footer {
   display: flex;
   justify-content: space-between;
@@ -23,7 +13,23 @@ footer {
   margin-bottom: 16px;
 }
 
-.license-info {
+.git-info {
+  display: flex;
+  gap: 10px;
+  font-size: 14px;
+  align-items: left;
+}
+
+.git-info a {
+  text-decoration: none;
+}
+
+.social-media-links {
   display: flex;
   align-items: center;
+}
+
+.license-info {
+  display: flex;
+  align-items: right;
 }
