@@ -15,6 +15,7 @@ footer {
 
 .git-info {
   display: flex;
+  flex-grow: 1;
   gap: 5px;
   font-size: 7px;
   align-items: left;
@@ -26,10 +27,12 @@ footer {
 
 .social-media-links {
   display: flex;
+  flex-grow: 2;
   align-items: center;
 }
 
 .license-info {
   display: flex;
+  flex-grow: 1;
   align-items: right;
 }
