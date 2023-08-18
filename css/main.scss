@@ -9,7 +9,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-//  flex-wrap: wrap;
+  flex-wrap: wrap;
   margin-bottom: 16px;
 }
 
@@ -26,10 +26,10 @@ footer {
 
 .social-media-links {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 
 .license-info {
   display: flex;
-  align-items: center;
+  align-items: right;
 }
