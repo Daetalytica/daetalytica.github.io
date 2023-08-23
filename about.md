@@ -26,7 +26,7 @@ ___
 
 ### Our Mission
 
-At [Dætalytica](https://daetalytica.io), we believe that everyone has the right to privacy and that technology should be used to protect, rather than invade, our personal lives. We are dedicated to promoting privacy and security as essential human rights, and we strive to raise awareness about the importance of protecting these rights online.
+{% include_relative README.md %}
 
 ### Our Topics
 
