@@ -1,4 +1,5 @@
-```
+###### The Revolution Will Not Be Centralized
+
 A new era is dawning, one that transcends borders and unites people from all 
 walks of life through the power of technology. Our world is rapidly evolving, 
 and with it, our values and priorities must also evolve. It is time for us to 
@@ -49,5 +50,3 @@ United, we can drive the digital renaissance forward, unlocking the full
 potential of the Information Age for the betterment of all humanity.
 
 Onward.
-```
-###### The Revolution Will Not Be Centralized
