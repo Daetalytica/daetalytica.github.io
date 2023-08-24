@@ -57,7 +57,7 @@ Thank you for visiting [Dætalytica](https://daetalytica.io), and we hope you fi
 | [![Twitter](assets/twitter.png)](https://twitter.com/daetalytica) |  | [![YouTube](assets/youtube.png)](https://www.youtube.com/@daetalytica) |
 |  |  |  |
 
-We also encourage you to join our community. Together, we can make the internet a safer and more secure place for everyone.
+We also encourage you to join our [community](/community). Together, we can make the internet a safer and more secure place for everyone.
 
 ### Cryptocurrency Donations
 | Cryptocurrency/QR | Address |
