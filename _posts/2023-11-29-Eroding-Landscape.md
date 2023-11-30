@@ -17,7 +17,7 @@ The assault on anonymity isn't limited to data collection. Governments are enact
 
 ### Democratic Nations and the Privacy Conundrum
 
-Democratic countries are not exempt from these troubling trends. Legislation like France's "Securité Globale" and the UK's Online Safety Bill show how even democracies can undermine digital privacy. These laws grant authorities unprecedented access to online activities, endangering the very foundation of free thought and expression.
+Democratic countries are not exempt from these troubling trends. Legislation like France's Securité Globale and the UK's Online Safety Bill show how even democracies can undermine digital privacy. These laws grant authorities unprecedented access to online activities, endangering the very foundation of free thought and expression.
 
 ### Empowering Individuals Against Surveillance
 
